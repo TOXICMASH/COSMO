@@ -14,7 +14,7 @@ Creator number 👉: wa.me/916238560742
 
 Githublink (Setup)  👇:    https://github.com/ANUSER1/COSMIC
 
-DEPLOYE  👇:  https://heroku.com/deploy?template=https://github.com/ANUSER1/COSMIC.git
+DEPLOYE  👇:  https://heroku.com/deploy?template=https://github.com/ANU-SER/COSMIC.git
 
 PUBLIC BOT GROUP 👇: https://chat.whatsapp.com/KeEMhqBW644IN46PYsGDWf
 
