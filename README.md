@@ -53,11 +53,6 @@ https://replit.com/@ANUSER1/ACE-V1#index.js
 https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FJoshuva-ser%2FCOSMIC&template=https%3A%2F%2Fgithub.com%2FVinayakvidyutkuniyil%2FCOSMIC-1.git
 
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ANUSER1/COSMIC.git)
-
-
-
-  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ANUSER1/ACE-V1#index.js)
   
 ### 𝕋ℍ𝔼 ℍ𝔸ℝ𝔻 𝕄𝔼𝕋ℍ𝕆𝔻
