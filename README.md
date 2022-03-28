@@ -41,6 +41,17 @@
  [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/_0anshid0_)
 
   ### 𝕊𝕀𝕄ℙ𝕃𝔼 𝕄𝔼𝕋ℍ𝕆𝔻
+This is repo
+https://replit.com/@ANUSER1/ACE-V1#index.js
+
+ɪᴍᴘ: ɪɴ ʜᴇʀᴏᴋᴋᴜ ᴡᴇ ᴄᴀɴ ɴᴏᴛ ᴅᴇᴘʟᴏʏ
+ഹീറോക്കുവിൽ നമ്മുക്ക് ഡെപ്ലോയ് (deploy) ചെയ്യാൻ സാധിക്കില്ല അതിനു പകരം ആദിയം (qr) scan ചെയ്തു
+തായെ തന്നിരിക്കുന്ന ലിങ്കിൽ കയറി deploy ചെയ്യുക (നിങ്ങൾക്കു ഏതു bot അണ്ണോ veandhadu select ചെയുക)
+
+
+ᴄᴏsᴍɪᴄ ʙᴏᴛ
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FJoshuva-ser%2FCOSMIC&template=https%3A%2F%2Fgithub.com%2FVinayakvidyutkuniyil%2FCOSMIC-1.git
+
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ANUSER1/COSMIC.git)
 
