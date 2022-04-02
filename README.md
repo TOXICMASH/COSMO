@@ -50,7 +50,7 @@ https://replit.com/@ANUSER1/ACE-V1#index.js
 
 
 ᴄᴏsᴍɪᴄ ʙᴏᴛ
-https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FJoshuva-ser%2FCOSMIC&template=https%3A%2F%2Fgithub.com%2FVinayakvidyutkuniyil%2FCOSMIC-1.git
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FJoshuva-ser%2FCOSMIC&template=https%3A%2F%2Fgithub.com%2FANU-SER%2FCOSMIC.git
 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ANUSER1/ACE-V1#index.js)
