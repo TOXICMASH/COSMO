@@ -42,9 +42,6 @@
 
   ### 𝕊𝕀𝕄ℙ𝕃𝔼 𝕄𝔼𝕋ℍ𝕆𝔻
 
-
-<a href="https://github.com/ANUSER1/COSMIC/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
-<br>
 <div>
 <a href="https://replit.com/@ANUSER1/ACE-V1#index.js?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
