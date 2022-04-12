@@ -46,7 +46,7 @@
 <a href="https://replit.com/@ANUSER1/ACE-V1#index.js?v=1"><img align="center" src="https://i.ibb.co/PG45Wxr/20220412-163446.jpg" alt="Scan QR" height="90" width="300" /></a>
 <br>
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FANUSER1%2FCOSMIC&template=https%3A%2F%2Fgithub.com%2FANU-SER%2FCOSMIC.git/"><img align="center" src="https://i.ibb.co/GMfHgkg/20220412-162838.png" alt="Fork and deploy" height="90" width="300" /></a>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FANUSER1%2FCOSMIC&template=https%3A%2F%2Fgithub.com%2FVinayakvidyutkuniyil%2FCOSMIC-1.git/"><img align="center" src="https://i.ibb.co/GMfHgkg/20220412-162838.png" alt="Fork and deploy" height="90" width="300" /></a>
    <br>
 
 
