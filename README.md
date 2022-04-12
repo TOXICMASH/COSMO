@@ -49,7 +49,7 @@
 <a href="https://replit.com/@ANUSER1/ACE-V1#index.js?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FJoshuva-ser%2FCOSMIC&template=https%3A%2F%2Fgithub.com%2FANU-SER%2FCOSMIC.git/"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FANUSER1%2FCOSMIC&template=https%3A%2F%2Fgithub.com%2FANU-SER%2FCOSMIC.git/"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
    <br>
 
 
