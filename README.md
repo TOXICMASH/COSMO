@@ -51,40 +51,7 @@
 
 
   
-### 𝕋ℍ𝔼 ℍ𝔸ℝ𝔻 𝕄𝔼𝕋ℍ𝕆𝔻
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/ANUSER1/COSMIC
-$ cd ANUSER1
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node julie.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/ANUSER1/COSMIC
-$ cd ANUSER1
-$ npm i
-$ node julie.js
-```
 
-----
-
-  <p align="center">
-  <a href="https://github.com/ANUSER1/COSMIC">
-    
-<a href="https://github.com/ANUSER1/followers">
-<img src="https://img.shields.io/github/repo-size/ANUSER1/COSMIC?color=black&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/ANUSER1/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/ANUSER?color=black&style=flat-square"></a>
-<a href="https://github.com/ANUSER1/COSMIC/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/ANUSER1/COSMIC/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AMRUSIR/AMRU-SER?color=blue&style=flat-square"></a>
-<a href="https://github.com/ANUSER1/COSMIC/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AMRUSIR/AMRU-SER?label=Watchers&color=blue&style=flat-square"></a>
-</p>
 
 ## 📢 𝔾𝕦𝕚𝕕𝕖
 ℂ𝕃𝕀ℂ𝕂 𝕎𝔸 𝕃𝕆𝔾𝕆 𝔸ℕ𝔻 𝕁𝕆𝕀ℕ 𝕋ℍ𝔼 𝔾ℝ𝕆𝕌ℙ👇
@@ -92,30 +59,3 @@ $ node julie.js
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/KeEMhqBW644IN46PYsGDWf)
   <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ANUSER1&repo=COSMIC&theme=nightowl)](https://github.com/ANUSER1/COSMIC)
-  </div>
-    
-### ⚠ 𝕎𝕒𝕣𝕟𝕚𝕟𝕘 ⚠
-
-```
-By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-
-```
-**[![ANSHID](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/916238560742?text=Can%20you%20help%20bro)**
-
-## Developers
-  <div align="center">
-    
-  [![ANUSER1](https://github.com/ANUSER1.png?size=500)](https://github.com/ANUSER1) |
-[ANSHID](https://github.com/ANUSER1) |
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
-  </div>
-    
-
-
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
-
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
